@@ -30,4 +30,21 @@ Whether you're preparing for interviews, building scalable applications, or mast
 ---
 
 ## 📂 Project Structure
-
+NextGenJava/
+│
+├── src/
+│ ├── oops/
+│ ├── collections/
+│ ├── multithreading/
+│ ├── designpatterns/
+│ ├── streams/
+│ └── ...
+│
+├── projects/
+│ ├── mini-crud-app/
+│ └── file-parser/
+│
+├── docs/
+│ └── cheatsheets/
+│
+└── README.md
