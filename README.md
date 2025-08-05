@@ -88,7 +88,7 @@ Create a new branch
 Submit a PR with a clear description
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v3.0.
 
 ## 🙌 Acknowledgements
 Thanks to the Java open-source community, educators, and contributors who’ve made Java learning accessible and deep.
